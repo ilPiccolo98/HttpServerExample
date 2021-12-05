@@ -1,0 +1,15 @@
+C:\Users\it partner\Desktop\c#\HttpListenerExample\HttpListenerExample\bin\Debug\net6.0\HttpListenerExample.exe
+C:\Users\it partner\Desktop\c#\HttpListenerExample\HttpListenerExample\bin\Debug\net6.0\HttpListenerExample.deps.json
+C:\Users\it partner\Desktop\c#\HttpListenerExample\HttpListenerExample\bin\Debug\net6.0\HttpListenerExample.runtimeconfig.json
+C:\Users\it partner\Desktop\c#\HttpListenerExample\HttpListenerExample\bin\Debug\net6.0\HttpListenerExample.dll
+C:\Users\it partner\Desktop\c#\HttpListenerExample\HttpListenerExample\bin\Debug\net6.0\ref\HttpListenerExample.dll
+C:\Users\it partner\Desktop\c#\HttpListenerExample\HttpListenerExample\bin\Debug\net6.0\HttpListenerExample.pdb
+C:\Users\it partner\Desktop\c#\HttpListenerExample\HttpListenerExample\obj\Debug\net6.0\HttpListenerExample.csproj.AssemblyReference.cache
+C:\Users\it partner\Desktop\c#\HttpListenerExample\HttpListenerExample\obj\Debug\net6.0\HttpListenerExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it partner\Desktop\c#\HttpListenerExample\HttpListenerExample\obj\Debug\net6.0\HttpListenerExample.AssemblyInfoInputs.cache
+C:\Users\it partner\Desktop\c#\HttpListenerExample\HttpListenerExample\obj\Debug\net6.0\HttpListenerExample.AssemblyInfo.cs
+C:\Users\it partner\Desktop\c#\HttpListenerExample\HttpListenerExample\obj\Debug\net6.0\HttpListenerExample.csproj.CoreCompileInputs.cache
+C:\Users\it partner\Desktop\c#\HttpListenerExample\HttpListenerExample\obj\Debug\net6.0\HttpListenerExample.dll
+C:\Users\it partner\Desktop\c#\HttpListenerExample\HttpListenerExample\obj\Debug\net6.0\ref\HttpListenerExample.dll
+C:\Users\it partner\Desktop\c#\HttpListenerExample\HttpListenerExample\obj\Debug\net6.0\HttpListenerExample.pdb
+C:\Users\it partner\Desktop\c#\HttpListenerExample\HttpListenerExample\obj\Debug\net6.0\HttpListenerExample.genruntimeconfig.cache
